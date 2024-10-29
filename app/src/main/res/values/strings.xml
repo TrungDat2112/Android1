@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MoneyGlitchs</string>
+
+    <string-array name="money_name">
+        <item>United States Dollar (USD)</item>
+        <item>Euro (EUR)</item>
+        <item>Japanese Yen (JPY)</item>
+        <item>British Pound (GBP)</item>
+        <item>Swiss Franc (CHF)</item>
+        <item>Canadian Dollar (CAD)</item>
+        <item>Australian Dollar (AUD)</item>
+        <item>Chinese Yuan (CNY)</item>
+        <item>South Korean Won (KRW)</item>
+        <item>Indian Rupee (INR)</item>
+        <item>Russian Ruble (RUB)</item>
+        <item>Brazilian Real (BRL)</item>
+        <item>Mexican Peso (MXN)</item>
+        <item>South African Rand (ZAR)</item>
+        <item>Singapore Dollar (SGD)</item>
+    </string-array>
+    <string-array name ="monet_icon">
+        <item>$</item>     <!-- United States Dollar (USD) -->
+        <item>€</item>     <!-- Euro (EUR) -->
+        <item>¥</item>     <!-- Japanese Yen (JPY) -->
+        <item>£</item>     <!-- British Pound (GBP) -->
+        <item>CHF</item>   <!-- Swiss Franc (CHF) -->
+        <item>C$</item>    <!-- Canadian Dollar (CAD) -->
+        <item>A$</item>    <!-- Australian Dollar (AUD) -->
+        <item>¥</item>     <!-- Chinese Yuan (CNY) -->
+        <item>₩</item>     <!-- South Korean Won (KRW) -->
+        <item>₹</item>     <!-- Indian Rupee (INR) -->
+        <item>₽</item>     <!-- Russian Ruble (RUB) -->
+        <item>R$</item>    <!-- Brazilian Real (BRL) -->
+        <item>$</item>     <!-- Mexican Peso (MXN) -->
+        <item>R</item>     <!-- South African Rand (ZAR) -->
+        <item>S$</item>    <!-- Singapore Dollar (SGD) -->
+    </string-array>
+
+    <!-- Exchange Rates to USD -->
+    <string-array name="exchange_rates_to_usd">
+            <item>1.0</item>       <!-- USD to USD -->
+            <item>1.1</item>       <!-- EUR to USD -->
+            <item>0.007</item>     <!-- JPY to USD -->
+            <item>1.3</item>       <!-- GBP to USD -->
+            <item>1.05</item>      <!-- CHF to USD -->
+            <item>0.75</item>      <!-- CAD to USD -->
+            <item>0.70</item>      <!-- AUD to USD -->
+            <item>0.15</item>      <!-- CNY to USD -->
+            <item>0.0008</item>    <!-- KRW to USD -->
+            <item>0.012</item>     <!-- INR to USD -->
+            <item>0.013</item>     <!-- RUB to USD -->
+            <item>0.20</item>      <!-- BRL to USD -->
+            <item>0.055</item>     <!-- MXN to USD -->
+            <item>0.065</item>     <!-- ZAR to USD -->
+            <item>0.74</item>      <!-- SGD to USD -->
+    </string-array>
+
+
+</resources>
